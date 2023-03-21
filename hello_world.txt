@@ -1,1 +1,2 @@
 This is an echo chamber!
+And *this* is testing the Git Commit command for VSCode.
